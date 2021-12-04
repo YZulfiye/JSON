@@ -2,7 +2,12 @@
  "Project",
 "Component",
 "Version",
-"Severity": {"Blocker", "Criitical", "Major", "Minor", "Trivial"},
+"Severity": 
+ {"Blocker", 
+ "Criitical", 
+ "Major", 
+ "Minor", 
+ "Trivial"},
 "Priority": {"High", "Medium", "Low"},
 "Status",
 "Author",
