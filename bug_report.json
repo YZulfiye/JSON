@@ -3,7 +3,7 @@
 "Component": "назва тестуючого компоненту",
 "Version": "версія, на якій було знайдено помилку",
 "Severity": "серйозність": {"Blocker", "Criitical", "Major", "Minor", "Trivial"},
-"Priority": "пріорітет": {"High", "Medium", "Low"),
+"Priority": "пріорітет": {"High", "Medium", "Low"},
 "Status": "статус бага",
 "Author": "автор звіту про баг",
 "Environment": "інформація про оточення, на якому виявлено баг",
